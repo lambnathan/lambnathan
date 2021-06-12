@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @lambnathan, welcome to my GitHub!
 - 👀 I’m interested in creating interesting things with code, and figuring out how things work. 
-- 🌱 I’m currently finishing my last semester at the Colorado School of Mines.
+- 🌱 Colorado School of Mines alum
 - 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/nathan-lambert-722651195/
 
 <!---
