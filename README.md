@@ -1,6 +1,7 @@
 # 👋 Hi, I’m @lambnathan, welcome to my GitHub!
 - 👀 I’m interested in creating interesting things with code, and figuring out how things work. 
 - 🌱 Colorado School of Mines alum
+- 💻 Software Engineer, Emsi Burning Glass
 - 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/nathan-lambert-722651195/
 
 <!---
